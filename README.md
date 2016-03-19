@@ -2,7 +2,7 @@
 
 You Drupal site needs to have https://www.drupal.org/project/nagios installed and configured.
 
-Just put this configuration in your Shinken configuration directory (like /etc/shinken/packs/drupal) and apply configuration to your host as in example below. Don't forget to restart/reload Shinken.
+Just put the contents of this repo in your Shinken configuration directory (like /etc/shinken/packs/drupal) and apply configuration to your host as in example below. Don't forget to restart/reload Shinken.
 
 
 ```
